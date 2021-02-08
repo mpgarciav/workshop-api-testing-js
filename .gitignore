@@ -143,3 +143,6 @@ dist
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,node,visualstudiocode
+
+## Reports ##
+report
